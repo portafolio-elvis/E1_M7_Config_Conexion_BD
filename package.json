@@ -1,0 +1,20 @@
+{
+  "name": "clase1-modulo-pg",
+  "version": "1.0.0",
+  "description": "Ejercicio de conexión a PostgreSQL con Node.js",
+  "main": "db-connect.js",
+  "scripts": {
+    "start": "node db-connect.js"
+  },
+  "keywords": [
+    "postgresql",
+    "nodejs",
+    "database"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "pg": "^8.19.0"
+  }
+}
